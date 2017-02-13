@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SelectPicture</string>
+    <string name="image_choose_limit">Image selection has reached its limit</string>
+
+    <string name="ok">OK</string>
+    <string name="choose_ok">OK(%1$d/%2$d)</string>
+</resources>

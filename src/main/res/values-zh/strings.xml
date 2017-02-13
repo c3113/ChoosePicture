@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">选择图片</string>
+    <string name="image_choose_limit">图片选择已达上限</string>
+
+    <string name="ok">确认</string>
+    <string name="choose_ok">确认(%1$d/%2$d)</string>
+</resources>

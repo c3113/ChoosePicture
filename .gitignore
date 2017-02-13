@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+*.iml
+
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+
+*.apk
+
+# 排除上面多过滤的文件
+!pupupu.iml
